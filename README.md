@@ -24,15 +24,15 @@ Es una aplicación web responsive que consulta el estado del clima mediante una 
 Las tecnologías implementadas en el lado del Back-End son las siguientes:
 
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-- [Python 3] (https://www.python.org)
+- [Python 3](https://www.python.org)
 
 ### Front-End
 
 Las tecnologías implementadas en el lado del Front-End son las siguientes:
 
-- [Bootstrap 4] (https://getbootstrap.com/docs/4.6/getting-started/introduction/)
-- [Angular] (https://angular.io)
-- [JQuery] (https://jquery.com)
+- [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- [Angular](https://angular.io)
+- [JQuery](https://jquery.com)
 
 <a name="install"></a>
 
