@@ -13,7 +13,7 @@ Este repositorio es una prueba de conocimientos técnicos para la empresa Cura D
 
 ## Acerca del Proyecto
 
-Es una aplicación web responsive que consulta el estado del clima mediante una api.
+Prueba de conocimientos tecnicos sobre la creación de api´s.
 
 <a name="technologies"></a>
 
